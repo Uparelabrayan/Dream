@@ -1,0 +1,82 @@
+body {
+    background-position: 30px;
+}
+p {
+    color: white;
+    text-align: center;
+    font-size: 32px;
+}
+h1 {
+    text-align: center;
+    color: rgb(187, 22, 22);
+    font-family: cursive;
+    margin: 0px
+    
+}
+.titulo {
+    background-color: rgb(216, 212, 212);
+}
+.menu {
+    border: 1px solid white;
+    text-align: center;
+    margin: 10px;
+    background-color: #fdf9c4;
+
+}
+.menu li {
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+    padding: 0px 9px;
+    font-family: cursive;
+    border: 2px solid black;
+}
+.principal {
+    margin: 5px auto;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    padding: 5px;
+}
+
+html {
+    margin: 5px 80px;
+    background-color: rgb(187, 22, 22);
+}
+.nav1 {
+    border: 2px solid white;	
+}
+.grid1 {
+    border: 2px solid black;
+}
+.grid2 {
+    border: 2px solid black;
+}
+.grid3 {
+    border: 2px solid black;
+}
+.grid4 {
+    border: 2px solid black;
+}
+.grid5 {
+    border: 2px solid black;
+}
+.grid6 {
+    border: 2px solid black;
+}
+.grid7 {
+    border: 2px solid black;
+}
+.grid8 {
+    border: 2px solid black;
+}
+.grid9 {
+    border: 2px solid black;
+}
+.grid10 {
+    border: 2px solid black;
+    padding: 2px;
+}
+
+
